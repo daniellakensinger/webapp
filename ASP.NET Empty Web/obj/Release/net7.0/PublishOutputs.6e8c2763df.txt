@@ -1,0 +1,7 @@
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/ASP.NET Empty Web
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/ASP.NET Empty Web.dll
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/ASP.NET Empty Web.deps.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/ASP.NET Empty Web.runtimeconfig.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/PubTmp/Out/ASP.NET Empty Web.pdb

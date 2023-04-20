@@ -1,0 +1,26 @@
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/appsettings.Development.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/appsettings.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/ASP.NET Empty Web
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/ASP.NET Empty Web.deps.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/ASP.NET Empty Web.runtimeconfig.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/ASP.NET Empty Web.dll
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/bin/Release/net7.0/ASP.NET Empty Web.pdb
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.csproj.AssemblyReference.cache
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.AssemblyInfoInputs.cache
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.AssemblyInfo.cs
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.csproj.CoreCompileInputs.cache
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets/msbuild.ASP.NET Empty Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets/msbuild.build.ASP.NET Empty Web.props
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.ASP.NET Empty Web.props
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.ASP.NET Empty Web.props
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets.pack.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets.build.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/staticwebassets.development.json
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/scopedcss/bundle/ASP.NET Empty Web.styles.css
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.dll
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/refint/ASP.NET Empty Web.dll
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.pdb
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ASP.NET Empty Web.genruntimeconfig.cache
+/Users/daniella/Projects/ASP.NET Empty Web/ASP.NET Empty Web/obj/Release/net7.0/ref/ASP.NET Empty Web.dll
